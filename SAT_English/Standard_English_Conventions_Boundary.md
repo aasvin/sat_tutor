@@ -212,26 +212,4 @@ If all four are true → It is a Boundary question.
 
 ---
 
-# Advanced Insight (Test Strategy)
 
-On the digital SAT:
-
-* Boundary questions often appear in the final 8–10 questions of each module.
-* They frequently test:
-
-  * Semicolon vs comma splice
-  * Colon vs comma
-  * Comma after dependent clause
-  * Conjunctive adverb structure
-  * Quotation punctuation
-  * Complex list punctuation
-
-If you master boundary structure rules, these become some of the most predictable and high-yield questions on the test.
-
----
-
-If you'd like, I can now create:
-
-* A condensed 1-page boundary rule sheet
-* A decision tree for clause identification
-* Or a high-difficulty boundary drill modeled exactly on Practice Test 2
